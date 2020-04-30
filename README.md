@@ -9,3 +9,8 @@ The Lossless Image Compression Option Compress images without affecting the qual
 Lossy Image Compression Option gives an option to select the outpout resolution between 0% and 100%.
 
 The Full Documentation Pdf is also attatched with the source code.
+The Jar Build Is Also Attatched.
+Just Download The JAR file, open command prompt and type:
+java -jar JPGCompressor.jar
+
+Thanks.
